@@ -1,5 +1,3 @@
-package Todo;
-
 public class ScreenTodo {
     private int size;
     private float dpi;
