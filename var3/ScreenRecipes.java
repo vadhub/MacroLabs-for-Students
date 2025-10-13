@@ -1,5 +1,3 @@
-package Todo;
-
 public class ScreenRecipes {
     private int size;
     private float dpi;
