@@ -1,4 +1,3 @@
-package Todo;
 
 class TodoTask {
     private String id;
