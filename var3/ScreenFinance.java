@@ -1,5 +1,3 @@
-package Todo;
-
 public class ScreenFinance {
     private int size;
     private float dpi;
