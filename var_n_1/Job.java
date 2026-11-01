@@ -1,4 +1,4 @@
-// файд Job.java
+// файл Job.java
 import java.util.List;
 
 public class Job {
